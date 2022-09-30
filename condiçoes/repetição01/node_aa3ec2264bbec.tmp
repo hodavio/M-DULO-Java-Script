@@ -1,0 +1,8 @@
+/*
+REPETIÇÃO EM JS (Laços): Nesse aspecto, se as CONDIÇOES for VERDADEIRA, EXECUTA O BLOCO {} e, em vez de seguir, VOLTA (faz um looping) a mesma condição para testar novamente e se for verdadeira, faz o mesmo processo sucessivamente ENQUANTO (WHILE) ta sendo verdadeira até que CONDIÇOES fossem falsas, segue para outro ponto.
+*/
+
+var Hodavio = 1
+while (Hodavio < 6){
+    console.log ('Hodavio José Siga')
+}
